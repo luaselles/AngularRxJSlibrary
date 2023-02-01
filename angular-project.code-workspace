@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+
+	"settings": {
+		"files.exclude": {
+			"**/.git": true,
+			"**/.gitignore": true,
+			"**/.svn": true,
+			"**/.hg": true,
+			"**/CVS": true,
+			"**/.DS_Store": true,
+			"**/bin": true,
+			"**/obj": true,
+			"**/.spec.ts": true,
+			"**/Thumbs.db": true,
+			"**/.vscode": true,
+			"**/node_modules": true,
+			"**/angularProject.code-workspace": true,
+
+		},
+	"editor.rulers": [
+		80,
+		{"column": 120,"color": "#0072f5"}
+	]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-dotnettools.csharp",
+			"kreativ-software.csharpextensions",
+			"patcx.vscode-nuget-gallery",
+			"k--kato.docomment"
+		]
+	}
+}
